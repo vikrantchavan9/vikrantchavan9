@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/vikrantchavan9/vikrantchavan9/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <h2 align="left">About me</h2>
+
+###
+
+<img align="left" height="200" src="https://media.discordapp.net/attachments/1351945406652612629/1351945440412696606/a318fd3a21471865f19764529553bdf6.jpg?ex=67dc38ce&is=67dae74e&hm=3a7dc5318f3e54223f00a78b562971b32c2103b66fdc2d40d63ac96b59b5fe5e&=&format=webp"  />
 
 ###
 
@@ -19,12 +19,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrantchavan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -44,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrantchavan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
