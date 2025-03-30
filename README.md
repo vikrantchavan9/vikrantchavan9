@@ -6,10 +6,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media.discordapp.net/attachments/1351945406652612629/1351945440412696606/a318fd3a21471865f19764529553bdf6.jpg?ex=67dc38ce&is=67dae74e&hm=3a7dc5318f3e54223f00a78b562971b32c2103b66fdc2d40d63ac96b59b5fe5e&=&format=webp"  />
-
-###
-
 <p align="left">My name is Vikrant Chavan and I'm a Software Developer from India.</p>
 
 ###
