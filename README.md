@@ -1,22 +1,11 @@
-<h1 align="left">Hey What's up?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Vikrant Here, I like to contribute online :).</p>
 
-###
-
-<p align="left">My name is Vikrant Chavan and I'm a Software Developer from India.</p>
-
-###
-
-<p align="left">🚀 Full-Stack Web Developer | Passionate about building scalable and efficient web applications.<br>💡 Skilled in React, Node.js, Express, PostgreSQL, and modern web technologies.<br>📚 Always learning and sharing insights on JavaScript, web development, AI or tech innovations.<br><br>🎯 Goals:<br>- Contribute to open-source projects and share knowledge with the community.<br>Let's connect and build something amazing! 💻✨</p>
-
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrantchavan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
+<p align="center">
+  <img src="./assets/activity.png" alt="Contribution activity" width="700">
+</p>
 
 ###
 
